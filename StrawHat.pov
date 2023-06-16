@@ -40,16 +40,18 @@ union {
         5            // Radius of the cylinder
         texture {
             pigment {
-                marble
+                marble   
+                //turbulence .5
                 color_map {
                     [0.5 rgb <1, 196/255, 68/255>]
                     [0.5 rgb <152/255, 107/255, 15/255>]
                 }
-                frequency 50
+                frequency 20
             }
         }  
         normal {
-            bumps .5
+            bumps .5  
+            scale 2
         }                                            
         finish {
             specular 0.1
