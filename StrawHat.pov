@@ -66,11 +66,15 @@ union {
                 pigment { color Red }
             }
             finish {
-                specular 0.8 
+                specular .3
             }
         }
         box {
             <-10, 0.7, -10>, <10, 10, 10>  // Define the range of truncation
         }
+    }  
+    
+    transform {
+        translate <10,0,0>
     }
 }
