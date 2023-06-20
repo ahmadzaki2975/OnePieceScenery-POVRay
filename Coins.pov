@@ -1,5 +1,7 @@
+#include "golds.inc"      
 
-// Coin
+// Coins             
+// Mady by Ahmad Zaki Akmal
 object {
     union {
         cylinder {
