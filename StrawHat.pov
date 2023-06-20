@@ -7,7 +7,7 @@ object {
         // Dome of the hat
         difference {
             sphere {
-                <0, 0, 0>, 3
+                <0, 0, 0>, 6
                 texture {
                     pigment {
                         marble
@@ -38,7 +38,7 @@ object {
         cylinder {
             <0, 0, 0>,   
             <0, .1, 0>,   
-            5            
+            10            
             texture {
                 pigment {
                     marble   
@@ -61,7 +61,7 @@ object {
         // Red ribbon on the hat        
         difference {
             sphere {
-                <0, 0, 0>, 3.05  
+                <0, 0, 0>, 6.05  
                 texture {
                     pigment { color Red }
                 }
@@ -70,12 +70,12 @@ object {
                 }
             }
             box {
-                <-10, .7, -10>, <10, 10, 10> 
+                <-10, 1.25, -10>, <10, 10, 10> 
             }
         }
 
         transform {
-            translate <10, 0, 0>
+            translate <10,0,0>
         }
     }
 }
