@@ -24,8 +24,8 @@ light_source {
 }         
 
 light_source {
-    <20,10,5>
-    color rgb <.5,.5,.5>
+    <30,10,5>
+    color rgb <1,.5,.5>
 }
 
 // Floor
