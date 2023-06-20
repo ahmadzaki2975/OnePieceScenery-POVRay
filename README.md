@@ -20,7 +20,7 @@ Final project for Graphical Visualization Engineering lecture.
  
 ## Libraries Used
 - colors.inc
-- woords.inc
+- woods.inc
 - golds.inc
 
 ## Preview
