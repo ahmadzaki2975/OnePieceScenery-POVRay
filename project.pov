@@ -2,15 +2,17 @@
 // Made by Ahmad Zaki Akmal
 
 #include "colors.inc"
-#include "woods.inc"      
+#include "woods.inc"   
+#include "golds.inc"   
 
 // Import objects
 #include "StrawHat.pov"
 #include "EternalPose.pov"
-#include "Map.pov"
+#include "Map.pov"  
+#include "Coins.pov"
 
 camera {
-    location <10, 15, 45>
+    location <0, 15, 35>
     look_at <0, 5, 0>
 }
 
@@ -44,10 +46,4 @@ plane {
         pigment {color Orange}
         //T_Wood2
     }
-}         
-
-   
-
-
-      
-
+}        
