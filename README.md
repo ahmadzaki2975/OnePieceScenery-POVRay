@@ -27,3 +27,7 @@ Final project for Graphical Visualization Engineering lecture.
 
 ## Preview
 ![(https://github.com/ahmadzaki2975/PovRay-Project/project.png)](https://raw.githubusercontent.com/ahmadzaki2975/PovRay-Project/main/project.png)
+![(https://github.com/ahmadzaki2975/PovRay-Project/project.png)](https://raw.githubusercontent.com/ahmadzaki2975/PovRay-Project/main/project2.png)
+![(https://github.com/ahmadzaki2975/PovRay-Project/project.png)](https://raw.githubusercontent.com/ahmadzaki2975/PovRay-Project/main/project3.png)
+![(https://github.com/ahmadzaki2975/PovRay-Project/project.png)](https://raw.githubusercontent.com/ahmadzaki2975/PovRay-Project/main/project4.png)
+![(https://github.com/ahmadzaki2975/PovRay-Project/project.png)](https://raw.githubusercontent.com/ahmadzaki2975/PovRay-Project/main/project5.png)
