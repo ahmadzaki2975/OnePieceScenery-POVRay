@@ -7,6 +7,7 @@
 // Import objects
 #include "StrawHat.pov"
 #include "EternalPose.pov"
+#include "Map.pov"
 
 camera {
     location <10, 15, 45>
@@ -45,33 +46,7 @@ plane {
     }
 }         
 
-// Map
-union {
-    box {
-    <50,0,-10>
-    <0,22,-9.8>
-    
-    transform {
-        //translate <30,10,0>
-    }           
-    //uv_mapping // Enable UV mapping to modify texture coordinates
-    texture {   
-        pigment {
-            image_map {
-                jpeg "Map.jpg" 
-                map_type 0        
-            }              
-            scale <-50, 22, 1>
-        }
-            
-        
-   }
    
-}
-    transform {
-        translate <-25,5,0>
-    }
-}       
 
 
       
