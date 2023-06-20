@@ -12,8 +12,8 @@
 #include "Coins.pov"
 
 camera {
-    location <0, 15, 35>
-    look_at <0, 5, 0>
+    location <0, 15, 40>
+    look_at <0, 10, 0>
 }
 
 
