@@ -2,7 +2,7 @@
 #include "woods.inc"
 
 // Eternal Pose
-// Made By Ahmad Zaki Akmal
+// Made By Ahmad Zaki Akmal    
 object {
     union {
         // Eternal Pose Base
@@ -173,5 +173,10 @@ object {
                 T_Wood4
             }
         }
+    }            
+    
+    transform {
+        translate <-5,0,2>   
+        rotate <0,-10,0>
     }
 }
