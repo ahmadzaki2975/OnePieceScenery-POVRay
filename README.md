@@ -26,8 +26,8 @@ Final project for Graphical Visualization Engineering lecture.
 - golds.inc
 
 ## Preview
-![(https://github.com/ahmadzaki2975/PovRay-Project/project.png)](https://raw.githubusercontent.com/ahmadzaki2975/PovRay-Project/main/480179-AhmadZakiAkmal-Printscreen1.png)
-![(https://github.com/ahmadzaki2975/PovRay-Project/project.png)](https://raw.githubusercontent.com/ahmadzaki2975/PovRay-Project/main/480179-AhmadZakiAkmal-Printscreen2.png)
-![(https://github.com/ahmadzaki2975/PovRay-Project/project.png)](https://raw.githubusercontent.com/ahmadzaki2975/PovRay-Project/main/480179-AhmadZakiAkmal-Printscreen3.png)
-![(https://github.com/ahmadzaki2975/PovRay-Project/project.png)](https://raw.githubusercontent.com/ahmadzaki2975/PovRay-Project/main/480179-AhmadZakiAkmal-Printscreen4.png)
-![(https://github.com/ahmadzaki2975/PovRay-Project/project.png)](https://raw.githubusercontent.com/ahmadzaki2975/PovRay-Project/main/480179-AhmadZakiAkmal-Printscreen5.png)
+![](https://raw.githubusercontent.com/ahmadzaki2975/PovRay-Project/main/480179-AhmadZakiAkmal-Printscreen1.png)
+![](https://raw.githubusercontent.com/ahmadzaki2975/PovRay-Project/main/480179-AhmadZakiAkmal-Printscreen2.png)
+![](https://raw.githubusercontent.com/ahmadzaki2975/PovRay-Project/main/480179-AhmadZakiAkmal-Printscreen3.png)
+![](https://raw.githubusercontent.com/ahmadzaki2975/PovRay-Project/main/480179-AhmadZakiAkmal-Printscreen4.png)
+![](https://raw.githubusercontent.com/ahmadzaki2975/PovRay-Project/main/480179-AhmadZakiAkmal-Printscreen5.png)
